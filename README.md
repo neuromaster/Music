@@ -1,4 +1,3 @@
-# soundofnow
-Sound Of Now Music Development
+#neuromaster
 
-https://soundofnowmusic.com
+https://nicksaffron.com
